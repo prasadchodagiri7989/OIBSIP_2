@@ -1,0 +1,179 @@
+.webpage{
+    font-family: sans-serif;
+}
+.bg-transparent{
+    background-color: transparent!important;
+}
+.main-page{
+    height: 100vh;
+    background-image: url('https://res.cloudinary.com/dbtkas8kr/image/upload/v1687085608/bgimage1_niwwc5.jpg');
+}
+.name{
+    text-align: center;
+    padding-top: 250px;
+    padding-right: 50px;
+    font-weight: bold;
+}
+.custom-nav{
+    padding-top: 30px;
+}
+.name-heading{
+    font-size: 30px;
+    color: #3e64ff;
+    
+}
+.name-para{
+    font-size: 40px;
+}
+.about-box{
+    margin-right: 120px;
+    font-family: sans-serif;
+}
+.about-keys{
+    font-size: 17px;
+    padding-right: 10px;
+}
+.about-values{
+    font-size: 17px;
+    padding-left: 10px;
+    color: #a1a1a1;
+}
+.about-image{
+    height: 700px;
+}
+.resume-button{
+    height: 50px;
+    width: 150px;
+    color: white;
+    background-color: #3e64ff;
+    border-radius: 20px;
+    border-width: 0px;
+    font-size: 20px;
+    margin-top: 250px;
+}
+.about-content{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.about-para{
+    color: #a1a1a1;
+}
+.education-logo{
+    height: 100px;
+}
+.education-content{
+    font-weight: bold;
+    padding-top: 50px;
+}
+.education-date{
+    color: #3e64ff;
+}
+.education-type{
+    font-size: 30px;
+}
+.education-college{
+    font-size: 20px;
+}
+.education-para{
+    color: #a1a1a1;
+}
+.education-heading{
+    text-align: center; 
+    font-size: 40px; 
+    font-weight: bold;
+    margin-top: 100px;
+    color: #3e64ff;
+}
+.skill-percentage-bg{
+    height: 30px;
+    width: 400px;
+    background-color: #ecefff;
+    border-radius: 10px;
+}
+.skill-percentage-c{
+    height: 30px;
+    width: 320px;
+    background-color: #3e64ff;
+    border-radius: 10px;
+}
+.skill-percentage-python{
+    height: 30px;
+    width: 360px;
+    background-color: #3e64ff;
+    border-radius: 10px;
+}
+.skill-percentage-html{
+    height: 30px;
+    width: 380px;
+    background-color: #3e64ff;
+    border-radius: 10px;
+}
+.skill-percentage-css{
+    height: 30px;
+    width: 340px;
+    background-color: #3e64ff;
+    border-radius: 10px;
+}
+.skill-percentage-javas{
+    height: 30px;
+    width: 220px;
+    background-color: #3e64ff;
+    border-radius: 10px;
+}
+.skill-percentage-java{
+    height: 30px;
+    width: 280px;
+    background-color: #3e64ff;
+    border-radius: 10px;
+}
+.skill{
+    font-size: 15px;
+    text-align: right;
+    color: white;
+    padding-right: 10px;
+}
+.skill-heading{
+    font-size: 20px;
+}
+.skill-box{
+    padding: 20px;
+}
+.skill-per{
+    margin: 20px;
+}
+.certification-button{
+    height: 50px;
+    width: 150px;
+    color: white;
+    background-color: #3e64ff;
+    border-radius: 20px;
+    border-width: 0px;
+    font-size: 20px;
+    margin-top: 20px;
+    transition: background-color .5s;
+}
+.certification-button:hover{
+    background-color: #6685ff;
+}
+.certification-logo{
+    height: 60px;
+    padding-right: 10px;
+}
+.education-box{
+    padding: 20px;
+    transition: transform .5s , box-shadow .5s , background-color .5s;
+}
+.education-box:hover{
+    background-color: #ecefff;
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.nav-link{
+    margin: 5px;
+}
+.logo-image{
+    height: 80px;
+}
+html{
+    scroll-behavior: smooth;
+}
